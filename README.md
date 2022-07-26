@@ -1,20 +1,43 @@
-ToDo List for ATS-4, QxSL, and ZyLO
+Forum of ATS-4 and ZyLO
 ====
 
-This is an issue-only repository for providing users with support for ATS-4, QxSL, and ZyLO.
-Feel free to [create issues](https://github.com/nextzlog/todo/issues/new/choose) including feature requests, bug reports and troubleshooting.
+[ATS-4](https://github.com/nextzlog/ats4)と[ZyLO](https://github.com/nextzlog/zylo)の利用者を支援する公式フォーラム
 
-## Japanese
+- 新機能の要望
+- トラブル対応
 
-ATS-4, QxSL, ZyLOの利用者を支援するための, Issue専用のレポジトリです.
-新機能の要望やバグの報告や技術的なトラブル対応の依頼など, 気兼ねなく[報告](https://github.com/nextzlog/todo/issues/new/choose)しましょう.
+自由に[投稿](https://github.com/nextzlog/todo/issues/new/choose)しましょう
 
-## Solutions
+## ATS-4
 
-- [ATS-4](https://github.com/nextzlog/ats4)
-- [QxSL](https://github.com/nextzlog/qxsl)
-- [ZyLO](https://github.com/nextzlog/zylo)
+[ALLJA1コンテスト](https://allja1.org)や[電通大コンテスト](https://uectest.ja1zgp.com)の書類受付システム
 
-## Contacts
+![ATS-4](images/ATS4.png)
 
-Feel free to contact [@nextzlog](https://twitter.com/nextzlog) on Twitter.
+## ZyLO
+
+[zLog v2.8](https://zlog.org)以降に標準搭載されている[マーケットプレイス機能](https://zylo.pafelog.net)
+
+![ZyLO](images/ZYLO.png)
+
+## 報告手順
+
+### 画面左上の**Issues**タブを開きます
+
+![タブを開く](images/ISSUE1.png)
+
+### 画面右下の**New issue**ボタンを押します
+
+![ボタンを押す](images/ISSUE2.png)
+
+### 話題を選び**Get started**ボタンを押します
+
+![ボタンを押す](images/ISSUE3.png)
+
+### 要望や報告を書き込んで投稿します
+
+![報告を書く](images/ISSUE4.png)
+
+## 連絡先
+
+[@nextzlog](https://twitter.com/nextzlog)
