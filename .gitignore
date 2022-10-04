@@ -1,5 +1,3 @@
-*
-!/README.md
-!/images/
-!/images/*.png
-!/.gitignore
+.*
+!.github
+!.gitignore
