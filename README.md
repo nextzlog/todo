@@ -16,7 +16,7 @@ Forum of ATS-4 and ZyLO
 
 ## ZyLO
 
-[zLog v2.8](https://zlog.org)以降に標準搭載されている[マーケットプレイス機能](https://zylo.pafelog.net)
+[zLog v2.8](https://zlog.org)以降に標準搭載されているプラグイン開発環境
 
 ![ZyLO](images/ZYLO.png)
 
